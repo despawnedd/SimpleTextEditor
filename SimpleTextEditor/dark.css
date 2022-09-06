@@ -1,0 +1,49 @@
+QToolTip
+{
+    color: #ffffff;
+    background-color: #2a82da;
+    border: 1px solid white;
+}
+
+QMenu::item:disabled
+{
+    background-color: #1b1b1b;
+}
+
+QFrame#titleBarC
+{
+    background: #292929;
+    border-bottom: 1px solid #292929;
+}
+
+QWidget#captionButtonsC
+{
+    padding-right: 3px;
+}
+
+QFrame#iconAndMenuBarC
+{
+    background: #353535;
+    padding: 3px 6px 3px 6px;
+}
+
+QMenuBar
+{
+    background: #353535;
+}
+
+QMenuBar::item
+{
+    spacing: 3px;
+    padding: 4px;
+    background: transparent;
+    border-radius: 4px;
+}
+
+QMenuBar::item:selected { /* when selected using mouse or keyboard */
+    background: #a8a8a8;
+}
+
+QMenuBar::item:pressed {
+    background: #888888;
+}

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource lang="css" prefix="/stylesheets">
+        <file alias="dark">dark.css</file>
+    </qresource>
+</RCC>

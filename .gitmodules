@@ -1,0 +1,3 @@
+[submodule "QGoodWindow"]
+	path = ext/QGoodWindow
+	url = https://github.com/antonypro/QGoodWindow/
